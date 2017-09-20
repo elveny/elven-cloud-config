@@ -14,7 +14,7 @@ app:
     description: ${app.name} is a Spring Cloud config-client application
 
 application:
-    message: Hello, elven
+    message: Hello, elveny
 
 # 应用信息
 info:
